@@ -1,0 +1,37 @@
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.exe
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.pdb
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.xml
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\Guna.UI.dll
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\Guna.UI2.dll
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading2.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.vbproj.GenerateResource.Cache
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.vbprojResolveAssemblyReference.cache
+C:\Users\mark rufort\Desktop\suycano looping act\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.vbprojResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.vbproj.GenerateResource.Cache

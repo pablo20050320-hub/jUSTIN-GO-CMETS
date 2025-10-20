@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22B0C77F-69E6-4C03-965C-3F7368A3AA74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>STUDENTINFO.My.MyApplication</StartupObject>
+    <RootNamespace>STUDENTINFO</RootNamespace>
+    <AssemblyName>STUDENTINFO</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Justin\OneDrive\Documents\Visual Studio 2010\Projects\Church Tracking System\Church Tracking System\My Project\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>STUDENTINFO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>STUDENTINFO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\..\..\Downloads\FOLDER\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\..\..\Downloads\FOLDER\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Downloads\Guna.UI_x86\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Downloads\_Getintopc.com_Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>..\..\..\..\Downloads\drive-download-20250811T110521Z-1-001\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="zxing">
+      <HintPath>..\..\..\..\..\Downloads\FOLDER\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\GUEST FORM ATTENDANCE\AttendanceFillvb.Designer.vb">
+      <DependentUpon>AttendanceFillvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GUEST FORM ATTENDANCE\AttendanceFillvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GUEST FORM ATTENDANCE\AttendanceForm.Designer.vb">
+      <DependentUpon>AttendanceForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GUEST FORM ATTENDANCE\AttendanceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DashboardForm.Designer.vb">
+      <DependentUpon>DashboardForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DashboardForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOADING\Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOADING\Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOADING\Loading3.Designer.vb">
+      <DependentUpon>Loading3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOADING\Loading3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOADING\generating.Designer.vb">
+      <DependentUpon>generating.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOADING\generating.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\SecurityQuestionForm.Designer.vb">
+      <DependentUpon>SecurityQuestionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\SecurityQuestionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\SetPrivacyPassword.Designer.vb">
+      <DependentUpon>SetPrivacyPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\SetPrivacyPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberAttendanceForm.Designer.vb">
+      <DependentUpon>MemberAttendanceForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberAttendanceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberHistoryForm.Designer.vb">
+      <DependentUpon>MemberHistoryForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberHistoryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\ScannerForm.Designer.vb">
+      <DependentUpon>ScannerForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\ScannerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Connections.vb" />
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LOGIN_SECURITY\Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\FormIDCard.Designer.vb">
+      <DependentUpon>FormIDCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MEMBER FORM &amp; ATTENDANCE\FormIDCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Modules\Utilities.vb" />
+    <Compile Include="RecycleBinForm.Designer.vb">
+      <DependentUpon>RecycleBinForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RecycleBinForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecycleBinMembersForm.Designer.vb">
+      <DependentUpon>RecycleBinMembersForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RecycleBinMembersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReycleMemberForm.Designer.vb">
+      <DependentUpon>ReycleMemberForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReycleMemberForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\GUEST FORM ATTENDANCE\AttendanceFillvb.resx">
+      <DependentUpon>AttendanceFillvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GUEST FORM ATTENDANCE\AttendanceForm.resx">
+      <DependentUpon>AttendanceForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DashboardForm.resx">
+      <DependentUpon>DashboardForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOGIN_SECURITY\Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOADING\Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\FormIDCard.resx">
+      <DependentUpon>FormIDCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOADING\Loading3.resx">
+      <DependentUpon>Loading3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOADING\generating.resx">
+      <DependentUpon>generating.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOGIN_SECURITY\SecurityQuestionForm.resx">
+      <DependentUpon>SecurityQuestionForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LOGIN_SECURITY\SetPrivacyPassword.resx">
+      <DependentUpon>SetPrivacyPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberAttendanceForm.resx">
+      <DependentUpon>MemberAttendanceForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\MemberHistoryForm.resx">
+      <DependentUpon>MemberHistoryForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MEMBER FORM &amp; ATTENDANCE\ScannerForm.resx">
+      <DependentUpon>ScannerForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecycleBinForm.resx">
+      <DependentUpon>RecycleBinForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecycleBinMembersForm.resx">
+      <DependentUpon>RecycleBinMembersForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReycleMemberForm.resx">
+      <DependentUpon>ReycleMemberForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image Jul 28, 2025, 09_36_28 PM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow and Blue Corporate Company ID Card_20250822_134252_0000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\woman-avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double Ring%401x-1.0s-200px-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pulse1x-1.0s-200px-200px-ezgif.com-gif-maker.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load-ezgif.com-gif-maker.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load-36_256.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loader-9342.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2025-08-24 205902.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2025-08-24 2059021.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo no background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-icon-png-0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN BACKGROUND.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DASHBOARDDD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\541678906_700560923031512_1085776606891639776_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\541678906_700560923031512_1085776606891639776_n-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\availability.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\availability %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\availability %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updating.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\driver-license %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\availability %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\curve-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-event.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

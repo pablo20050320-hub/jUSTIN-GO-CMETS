@@ -1,0 +1,88 @@
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\bin\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\MEMBERINFO.vbprojResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\MEMBERINFO.vbproj.GenerateResource.Cache
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\STUDENTINFO\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.exe
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.pdb
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.xml
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\MEMBERINFO.vbprojResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading2.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\Justin\Downloads\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\MEMBERINFO.vbproj.GenerateResource.Cache
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\MEMBERINFO.vbprojResolveAssemblyReference.cache
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading2.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\MEMBERINFO.vbproj.GenerateResource.Cache
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.exe
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.pdb
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.xml
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.generating.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\bin\Debug\STUDENTINFO.exe.config
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.AttendanceFillvb.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.AttendanceForm.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.SecurityQuestionForm.resources
+C:\Users\Justin\OneDrive\Desktop\SYSTEM KO\STUDENTINFO\CHURCH MEMBER TRACKING SYSTEM\obj\x86\Debug\STUDENTINFO.SetPrivacyPassword.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\STUDENTINFO.exe.config
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.exe
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.xml
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.pdb
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\STUDENTINFO.exe
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\STUDENTINFO.pdb
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\STUDENTINFO.xml
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\MEMBERINFO.vbprojResolveAssemblyReference.cache
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.AttendanceFillvb.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.AttendanceForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.DashboardForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Form1.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Form2.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Form3.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Loading.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.FormIDCard.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Loading3.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.generating.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.SecurityQuestionForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.SetPrivacyPassword.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.Resources.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\MEMBERINFO.vbproj.GenerateResource.Cache
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.RecycleBinForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.RecycleBinMembersForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\AForge.Video.dll
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\bin\Debug\zxing.dll
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.MemberAttendanceForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.ScannerForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.RecycleAttendanceMemberForm.resources
+C:\Users\Justin\OneDrive\Desktop\SIR GAB DOCU 3RD YR\SYSTEM KO\Church Member Event Tracking System\obj\x86\Debug\STUDENTINFO.MemberHistoryForm.resources

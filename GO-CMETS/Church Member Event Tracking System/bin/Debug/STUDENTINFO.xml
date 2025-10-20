@@ -1,0 +1,312 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+STUDENTINFO
+</name>
+</assembly>
+<members>
+<member name="P:STUDENTINFO.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources._541678906_700560923031512_1085776606891639776_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources._541678906_700560923031512_1085776606891639776_n_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.add_event">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.add_group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.add_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.add_user1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.availability">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.availability__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.availability__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.availability__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.back_arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.bgg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.bgg2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.bin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.browser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.ChatGPT_Image_Jul_28__2025__09_36_28_PM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.ChatGPT_Image_Jul_28__2025__09_36_28_PM_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.check">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.clean">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.curve_arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.dashboard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.dashboard1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.DASHBOARDDD">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Double_Ring_1x_1_0s_200px_200px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.driver_license__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.hide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.id_card">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.left_arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.left_arrow__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.left_arrow__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.left_arrow1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.load_36_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.load_ezgif_com_gif_maker">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.loader_9342">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.LOGIN_BACKGROUND">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.LOGIN_BACKGROUND1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.LOGIN_BACKGROUND2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.logo_no_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.logo_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.logout__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.luxa_org_opacity_changed___hqdefault">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.man">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.maximize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.minimize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.minimize__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.minimize1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.output_onlinepngtools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.padlock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.people">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Pulse1x_1_0s_200px_200px_ezgif_com_gif_maker">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.recycle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Screenshot_2025_08_24_205902">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Screenshot_2025_08_24_2059021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.search_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.search_icon_png_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.show">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.trash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.turn_back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.updating">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.woman_avatar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Yellow_and_Blue_Corporate_Company_ID_Card_20250822_134252_0000">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:STUDENTINFO.My.Resources.Resources.Yellow_and_Blue_Corporate_Company_ID_Card_20250822_134252_0001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:STUDENTINFO.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
